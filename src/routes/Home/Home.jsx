@@ -51,7 +51,7 @@ function Home() {
   return (
     <div className="w-full min-h-screen max-w-[1440px] mx-auto  p-8">
       <h1 className="text-4xl font-bold text-center text-green-700">
-        Bem-vindo(a) à GREEN WATT
+        BEM-VINDO(A) À GREEN WATT
       </h1>
       <h2 className="mt-6 mb-8 text-2xl font-medium text-center text-gray-700">
         Economize energia com soluções inteligentes
