@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import GWB from '../../assets/GWB.png';
+import GWB from '../../assets/GW - Branco.png';
 
 
 
@@ -12,7 +12,7 @@ const Nav = () => {
     <nav className="flex items-center justify-between px-6 py-4 bg-gray-800 text-white">
       <div className="flex items-center">
         <Link to="/">
-          <img src={GWB} alt="Logo" className="w-20 h-20" />
+          <img src={GWB} alt="Logo" className="w-20 h-auto" />
         </Link>
       </div>
 
