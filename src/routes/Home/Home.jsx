@@ -78,7 +78,7 @@ function Home() {
         <p className="mb-4 text-lg text-gray-700">
           GREEN WATT é uma solução para quem busca economizar energia e preservar o meio ambiente.
         </p>
-        <p className="mb-4 text-gray-600">
+        <p className="mb-4 text-gray-600 p-12">
         Transforme a forma como você gerencia o consumo de energia elétrica com nossa solução inteligente e sustentável. Reduza desperdícios, economize dinheiro e contribua para um futuro mais verde. Explore nossos recursos avançados e veja como podemos ajudar você a otimizar o consumo em sua residência ou empresa.
         </p>
       </div>
