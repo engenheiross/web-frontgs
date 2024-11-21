@@ -51,7 +51,7 @@ function Home() {
   return (
     <div className="w-full min-h-screen max-w-[1440px] mx-auto  p-8">
       <h1 className="text-4xl font-bold text-center text-green-700">
-        Bem Vindo à GREEN WATT
+        BEM-VINDO(A) À GREEN WATT
       </h1>
       <h2 className="mt-6 mb-8 text-2xl font-medium text-center text-gray-700">
         Economize energia com soluções inteligentes
@@ -78,11 +78,8 @@ function Home() {
         <p className="mb-4 text-lg text-gray-700">
           GREEN WATT é uma solução para quem busca economizar energia e preservar o meio ambiente.
         </p>
-        <p className="mb-4 text-gray-600">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi officia quod vel voluptates, quia similique nihil porro quaerat sapiente aliquid magnam sint ad nostrum ut animi unde? Dolor, minus ipsam?
-        </p>
-        <p className="mb-4 text-gray-600">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi ex quam blanditiis eligendi aliquam? Corporis voluptatem labore maiores quod ex ducimus voluptatum dicta, quis delectus, dignissimos at possimus, et eius?
+        <p className="mb-4 text-gray-600 p-12">
+        Transforme a forma como você gerencia o consumo de energia elétrica com nossa solução inteligente e sustentável. Reduza desperdícios, economize dinheiro e contribua para um futuro mais verde. Explore nossos recursos avançados e veja como podemos ajudar você a otimizar o consumo em sua residência ou empresa.
         </p>
       </div>
     </div>
