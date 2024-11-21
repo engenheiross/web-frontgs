@@ -43,6 +43,9 @@ Após executar os dois servidores, abra o navegador e acesse o endereço http://
 
 # Acesso 
 
+![image](https://github.com/user-attachments/assets/68092c10-14c3-4ed3-9616-a5babc1c23c4)
+
+
 Login para usar o Dashboard:
 ```
 Usuário: nomeDeUsuario
