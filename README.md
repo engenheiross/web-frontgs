@@ -6,26 +6,26 @@
 - Otavio Santos de Lima Ferrao
 
 # Smart Lamp Greenwatt
-Este site é feito para mostrar a Smart Lamp GreenWatt, uma lâmpada inteligente e que busca otimizar o consumo de energia elétrica na iluminação de sua casa.
+Este site é feito para mostrar a [Smart Lamp GreenWatt](https://github.com/engenheiross/greenwatt-smartlamp-gs), uma lâmpada inteligente e que busca otimizar o consumo de energia elétrica na iluminação de sua casa.
 
 # Guia para Executar o Website React JS
 
 Este guia descreve os passos necessários para executar o projeto React JS em sua máquina local. O projeto inclui um frontend em React e um backend simulado utilizando o json-server. Para garantir o funcionamento correto, é necessário utilizar dois terminais (por exemplo, no Visual Studio Code).
 ## Pré-requisitos
 
-    Node.js: Certifique-se de que o Node.js está instalado em sua máquina. Você pode baixá-lo em nodejs.org.
+Node.js: Certifique-se de que o Node.js está instalado em sua máquina. Você pode baixá-lo em nodejs.org.
 
-    Gerenciador de Pacotes npm: O npm é instalado automaticamente com o Node.js.
+Gerenciador de Pacotes npm: O npm é instalado automaticamente com o Node.js.
 
-    Dependências do projeto: Após clonar o repositório, instale as dependências do projeto com o comando:
+Dependências do projeto: Após clonar o repositório, instale as dependências do projeto com o comando:
 
-    npm install
+npm install
 
 ## Passos para Executar o Projeto
 
-    Abrir dois terminais No seu editor (ex.: Visual Studio Code), abra dois terminais separados.
+Abrir dois terminais No seu editor (ex.: Visual Studio Code), abra dois terminais separados.
 
-    Executar o frontend (React) No primeiro terminal, navegue até a pasta raiz do projeto e execute o comando:
+Executar o frontend (React) No primeiro terminal, navegue até a pasta raiz do projeto e execute o comando:
 
 ```npm run dev```
 
@@ -51,11 +51,4 @@ Login para usar o Dashboard:
 ```
 Usuário: nomeDeUsuario
 Senha: senha123
-```
-
-## Dependências
-
-Utilize esse comando para instalar as dependências  
-```
-npm install
 ```
