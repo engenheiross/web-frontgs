@@ -1,25 +1,20 @@
-# Instalando a dependência 
+![Untitled](https://github.com/user-attachments/assets/f9b730d7-6146-4f7d-b8db-17660877280d)
+# Smart Lamp Greenwatt
+Este site é feito para mostrar a Smart Lamp GreenWatt, uma lâmpada inteligente e que busca otimizar o consumo de energia elétrica na iluminação de sua casa.
 
+# Acesso
+
+Link para o Website: 
+
+Login para usar o Dashboard:
+```
+Usuário: nomeDeUsuario
+Senha: senha123
+```
+
+## Dependências
+
+Utilize esse comando para instalar as dependências  
+```
 npm install
-
-# Instalando a dependência React-Router-Dom 
-
-npm install react-router-dom
-
-# instalando a dependência do json-server
-
-npm install json-server
-
-# configurando o json-server no package.json
-
-"backend":"json-server --watch dados.json --port 5000",
-
-# para rodar o json server
-
-npm run backend
-
-npm install -g json-server
-
-# Instalando swiper
-
-npm install swiper
+```
