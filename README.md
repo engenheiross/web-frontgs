@@ -37,7 +37,7 @@ Executar o backend (json-server) No segundo terminal, execute o comando:
 
 Esse comando iniciará o servidor simulado utilizando o json-server. Por padrão, o backend estará disponível em http://localhost:5000.
 
-## Acessar o Website 
+### Acessar o Website 
 
 Após executar os dois servidores, abra o navegador e acesse o endereço http://localhost:3000. O website estará conectado ao backend e funcional.
 
